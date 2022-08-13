@@ -5,8 +5,9 @@ Algo que no deberias saber
 
 Mira nomas
 
+Si te das cuenta, agruege esta linea
 
-Pero solo mira nomas
+Y elimine esta
 
 Solo tengo 37 años
 
